@@ -2,8 +2,6 @@
 	python
 	flask
 	requests
-	matploltlib
-	pillow/pil
 	
 
 2. Run server.py from cmd
