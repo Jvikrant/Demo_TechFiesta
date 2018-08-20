@@ -1,6 +1,7 @@
 # Demo_TechFiesta
 Tech fiesta files
 
+//Infographic Machine Learning Content
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
 //Linear Regression
