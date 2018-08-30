@@ -20,3 +20,6 @@ https://towardsdatascience.com/machine-learning/home
 
 45 Ways to Activate Your Data Science Career
 https://towardsdatascience.com/45-ways-to-activate-your-data-science-career-6a0d9c664e84
+
+Crowd identification & counting the people
+https://towardsdatascience.com/use-a-crowd-counting-ai-model-for-your-business-485da9c21db4
