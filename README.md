@@ -12,3 +12,11 @@ http://www.statisticssolutions.com/assumptions-of-linear-regression/
 
 //how to choose Prediction Models & Refine it
 http://people.duke.edu/~rnau/411home.htm
+
+
+https://www.datasciencego.com/
+
+https://towardsdatascience.com/machine-learning/home
+
+45 Ways to Activate Your Data Science Career
+https://towardsdatascience.com/45-ways-to-activate-your-data-science-career-6a0d9c664e84
