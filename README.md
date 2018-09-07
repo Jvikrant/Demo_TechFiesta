@@ -13,6 +13,8 @@ http://www.statisticssolutions.com/assumptions-of-linear-regression/
 //how to choose Prediction Models & Refine it
 http://people.duke.edu/~rnau/411home.htm
 
+//Google ML Courses
+https://developers.google.com/machine-learning/crash-course/ml-intro
 
 https://www.datasciencego.com/
 
