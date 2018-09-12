@@ -25,3 +25,7 @@ https://towardsdatascience.com/45-ways-to-activate-your-data-science-career-6a0d
 
 Crowd identification & counting the people
 https://towardsdatascience.com/use-a-crowd-counting-ai-model-for-your-business-485da9c21db4
+
+
+//it teaches you how to do data analytics using small data and excel
+https://developer.mozilla.org/en-US/docs/Learn/Server-side
