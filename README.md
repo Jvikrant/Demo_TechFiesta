@@ -33,3 +33,12 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side
 
 //Document Comparision
 https://mlichtenberg.wordpress.com/2013/09/09/comparing-documents-with-bayes-classification-term-frequencyinverse-document-frequency-and-levenshtein-distance-algorithms/
+
+
+//Supervised vs Un-Supervised Learning
+https://dataconomy.com/2015/01/whats-the-difference-between-supervised-and-unsupervised-learning/
+
+https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
+
+
+
