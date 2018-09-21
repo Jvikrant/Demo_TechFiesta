@@ -41,4 +41,10 @@ https://dataconomy.com/2015/01/whats-the-difference-between-supervised-and-unsup
 https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
 
 
+//Keyword extraction : NLP Spacy NLTK
+https://datascienceplus.com/topic-modeling-in-python-with-nltk-and-gensim/
+
+https://www.airpair.com/nlp/keyword-extraction-tutorial
+
+
 
