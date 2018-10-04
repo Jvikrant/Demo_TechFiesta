@@ -47,4 +47,7 @@ https://datascienceplus.com/topic-modeling-in-python-with-nltk-and-gensim/
 https://www.airpair.com/nlp/keyword-extraction-tutorial
 
 
+//Pickling
+https://www.datacamp.com/community/tutorials/pickle-python-tutorial
+
 
