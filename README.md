@@ -1,5 +1,4 @@
-# Demo_TechFiesta
-Tech fiesta files
+#Important DATA SCIENCE Link
 
 //Infographic Machine Learning Content
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
@@ -50,4 +49,6 @@ https://www.airpair.com/nlp/keyword-extraction-tutorial
 //Pickling
 https://www.datacamp.com/community/tutorials/pickle-python-tutorial
 
+//Cheat sheet for python & others
+https://www.datacamp.com/community/data-science-cheatsheets
 
