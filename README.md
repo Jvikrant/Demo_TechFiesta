@@ -52,3 +52,5 @@ https://www.datacamp.com/community/tutorials/pickle-python-tutorial
 //Cheat sheet for python & others
 https://www.datacamp.com/community/data-science-cheatsheets
 
+https://www.datacamp.com/community/data-science-cheatsheets?posts_selected_tab=must_read
+
