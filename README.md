@@ -54,3 +54,7 @@ https://www.datacamp.com/community/data-science-cheatsheets
 
 https://www.datacamp.com/community/data-science-cheatsheets?posts_selected_tab=must_read
 
+
+//Topic Modelling Tutorial
+https://radimrehurek.com/topic_modeling_tutorial/2%20-%20Topic%20Modeling.html
+
