@@ -61,3 +61,5 @@ https://radimrehurek.com/topic_modeling_tutorial/2%20-%20Topic%20Modeling.html
 //Genism Tutorial
 https://radimrehurek.com/gensim/tutorial.html
 
+https://miningthedetails.com/blog/python/lda/GensimLDA/
+
