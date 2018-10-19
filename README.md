@@ -58,3 +58,6 @@ https://www.datacamp.com/community/data-science-cheatsheets?posts_selected_tab=m
 //Topic Modelling Tutorial
 https://radimrehurek.com/topic_modeling_tutorial/2%20-%20Topic%20Modeling.html
 
+//Genism Tutorial
+https://radimrehurek.com/gensim/tutorial.html
+
