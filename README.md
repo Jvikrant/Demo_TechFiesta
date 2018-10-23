@@ -58,8 +58,14 @@ https://www.datacamp.com/community/data-science-cheatsheets?posts_selected_tab=m
 //Topic Modelling Tutorial
 https://radimrehurek.com/topic_modeling_tutorial/2%20-%20Topic%20Modeling.html
 
-//Genism Tutorial
+//Gensim Tutorial
 https://radimrehurek.com/gensim/tutorial.html
 
 https://miningthedetails.com/blog/python/lda/GensimLDA/
+
+
+//machine learning
+https://www.youracclaim.com/org/ibm/badge/ibm-machine-learning-essentials-2017
+
+
 
