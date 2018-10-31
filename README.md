@@ -70,4 +70,6 @@ https://www.youracclaim.com/org/ibm/badge/ibm-machine-learning-essentials-2017
 https://cognitiveclass.ai/badges/machine-learning-python/
 
 
+//IBM cognitive learning portal (Badges & curated Courses)
+https://cognitiveclass.ai/learn/
 
