@@ -73,3 +73,6 @@ https://cognitiveclass.ai/badges/machine-learning-python/
 //IBM cognitive learning portal (Badges & curated Courses)
 https://cognitiveclass.ai/learn/
 
+
+//Webinar
+https://app.box.com/s/zkfqnjsq1bydqgffn0kial1449y5vo9h/folder/57099117648
