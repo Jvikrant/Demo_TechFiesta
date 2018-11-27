@@ -86,3 +86,6 @@ https://towardsdatascience.com/analyzing-my-google-location-history-d3a5c56c7b70
 
 //Data Visualization
 https://www.drasticdata.nl/projects.htm
+
+//Git Tutorial Info
+https://www.atlassian.com/git/tutorials/syncing/git-fetch
