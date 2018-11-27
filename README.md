@@ -83,3 +83,6 @@ https://towardsdatascience.com/learning-to-rank-with-python-scikit-learn-327a5cf
 
 //Analyzing Google loacation History
 https://towardsdatascience.com/analyzing-my-google-location-history-d3a5c56c7b70
+
+//Data Visualization
+https://www.drasticdata.nl/projects.htm
