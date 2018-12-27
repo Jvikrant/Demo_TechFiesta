@@ -93,3 +93,8 @@ https://www.atlassian.com/git/tutorials/syncing/git-fetch
 
 //mylearning
 https://capgemini.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=https:%2F%2Fcapgemini.sumtotal.host%2Flearning%2Fapp%2Fmanagement%2FLMS_TrainingPlans.aspx%3FUserMode%3D0
+
+
+
+//Python common AgreegATE FUNCTION
+http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf
