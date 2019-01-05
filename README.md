@@ -98,3 +98,6 @@ https://capgemini.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=https:%2
 
 //Python common AgreegATE FUNCTION
 http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf
+
+//Python Learning
+https://data-flair.training/blogs/python-inheritance/
