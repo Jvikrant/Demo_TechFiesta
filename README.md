@@ -101,3 +101,10 @@ http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf
 
 //Python Learning
 https://data-flair.training/blogs/python-inheritance/
+
+
+//Guided LDA
+https://medium.freecodecamp.org/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164
+
+// LDA (Beginner`s Level)
+https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
